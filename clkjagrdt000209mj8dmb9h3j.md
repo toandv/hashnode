@@ -9,7 +9,7 @@ tags: complexity
 
 ### [Complexity](http://www.catb.org/~esr/writings/taoup/html/ch13s01.html)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690348961705/c248481c-8351-4571-92c6-8dc365e4cd5f.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690349627494/6fe75e27-8813-42ce-87e5-3cd4818b48c3.png align="center")
 
 *Accidental complexity* happens because someone didn't find the simplest way to implement a specified set of features. *Accidental complexity* can be eliminated by good design, or good redesign.
 
